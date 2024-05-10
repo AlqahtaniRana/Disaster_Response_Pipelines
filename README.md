@@ -8,13 +8,13 @@ This project was conducted as part of the Udacity Data Scientist Nanodegree prog
 ## Installations
 To run this project, I utilized Visual Studio Code. The following libraries were used:
 
-Python version: 3.9.13
-numpy: 1.22.4
-pandas: 1.4.4
-SQLAlchemy: 1.4.39
-nltk: 3.7
-scikit-learn: 1.0.2
-plotly: 5.9.0
+- Python version: 3.9.13
+- numpy: 1.22.4
+- pandas: 1.4.4
+- SQLAlchemy: 1.4.39
+- nltk: 3.7
+- scikit-learn: 1.0.2
+- plotly: 5.9.0
 
 ## Instructions
 1. **ETL Pipeline:**
